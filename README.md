@@ -1,7 +1,7 @@
 # AWS-S3-For-Solution-Architects
 Free book - AWS S3 For Solution Architects
 
-Preface
+<b>Preface</b>
 
 In today's fast-paced cloud environment, where scalability, cost-efficiency, and security are paramount, solution architects play a pivotal role in designing and implementing effective cloud architectures. As organizations increasingly rely on cloud services, particularly Amazon Web Services (AWS), solution architects must possess a deep and thorough understanding of AWS services. This goes beyond surface-level knowledge—it requires a mastery of the service’s features, limitations, and cost considerations to design solutions that are not only functional but also efficient and resilient.
 
