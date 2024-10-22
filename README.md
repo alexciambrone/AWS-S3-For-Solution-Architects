@@ -70,44 +70,67 @@ Chapter 15: S3 Object Lock - Learn how to enforce WORM (Write Once, Read Many) p
 
 <b>Part 4: Advanced Access and Performance Features</b>
 Now that the security foundations are covered, this section introduces advanced access mechanisms and performance-optimizing features that allow for more scalable and efficient data management.
+
 Chapter 16: S3 Access Points - This chapter introduces S3 Access Points, which simplify managing access to shared data sets by creating unique access policies for different users and applications.
+
 Chapter 17: S3 Multi-Region Access Points - Building on Access Points, this chapter explores the use of Multi-Region Access Points to provide seamless, low-latency access to data across multiple AWS regions.
+
 Chapter 18: AWS Private Link - Learn how AWS PrivateLink provides private and secure connectivity to your S3 buckets without using the public internet.
+
 Chapter 19: S3 Mountpoints - This chapter covers how to use mountpoints to access S3 from on-premises environments, enabling hybrid cloud models.
+
 Chapter 20: S3 Directory Buckets - Explore the concept of directory buckets, which offer hierarchical namespace and optimized performance for specific use cases.
+
 Chapter 21: Advanced Access options comparison - This chapter provides a concise comparison of advanced S3 access features, including Access Points, Multi-Region Access Points, PrivateLink, and Mountpoints, helping you choose the right solution for different scenarios.
 
 <b>Part 5: Object Interaction and Sharing</b>
 Amazon S3 provides several methods to share and interact with objects. This section focuses on how to distribute, manage, and monetize access to S3 data.
+
 Chapter 22: S3 Requester Pay - This chapter explains the Requester Pays model, where users accessing the data are charged for data retrieval, making it useful for monetizing shared datasets.
+
 Chapter 23: S3 Pre-Signed URLs - Learn how to generate temporary pre-signed URLs to grant secure, time-limited access to objects in S3.
+
 Chapter 24: Cookie-Based Presigned URLs and Query String Authentication (Presigned URLs) - This chapter covers more advanced uses of pre-signed URLs, including cookie-based authentication and query string authentication for API-driven access.
 
 <b>Part 6: Event-Driven Architectures and Data Processing</b>
 Amazon S3 can act as the cornerstone of event-driven architectures. This section explains how S3 integrates with event notifications and processing services.
+
 Chapter 25: S3 Event Notification - Discover how S3 event notifications can trigger workflows when objects are created, modified, or deleted.
+
 Chapter 26: S3 Object Lambda - This chapter introduces S3 Object Lambda, a powerful tool that allows custom processing of S3 objects on-the-fly as they are accessed.
 
 <b>Part 7: Performance Optimization and Large-Scale Operations</b>
 Here, we explore features that help optimize performance and enable large-scale operations, from speeding up transfers to handling large datasets.
+
 Chapter 27: S3 Transfer Acceleration - Learn how to use S3 Transfer Acceleration to speed up data transfers by taking advantage of Amazon CloudFront’s globally distributed edge locations.
+
 Chapter 28: S3 Multipart Upload - This chapter discusses how to use multipart uploads to transfer large objects more efficiently and ensure fault tolerance.
+
 Chapter 29: S3 Batch Operations - Discover how S3 Batch Operations enables large-scale data processing across thousands or millions of S3 objects.
+
 Chapter 30: S3 Copy - This chapter explains how to copy large datasets within or between S3 buckets efficiently.
 
 <b>Part 8: Monitoring, Auditing, and Analytics</b>
 Monitoring and auditing are crucial for maintaining the health and security of your S3 environment. This section covers tools and techniques for gaining insights into S3 usage.
+
 Chapter 31: S3 Storage Lens - S3 Storage Lens provides visibility into your S3 storage, helping you track usage trends and improve cost efficiency.
+
 Chapter 32: S3 Server Access Logs - Learn how to use S3 Server Access Logs to monitor who accesses your data and when, which is critical for auditing and security compliance.
+
 Chapter 33: S3 Inventory - This chapter covers how to maintain an inventory of objects stored in S3 buckets, making it easier to audit and track large-scale storage usage.
 
 <b>Part 9: Advanced Data Queries and Integrity</b>
 This section covers advanced features that help you query and validate the integrity of your data without needing to retrieve large datasets.
+
 Chapter 34: S3 Select & Glacier Select - Learn how to use S3 Select and Glacier Select to query subsets of data within an object, reducing the amount of data you need to retrieve and process.
+
 Chapter 35: S3 Checksum - This chapter details how S3 ensures data integrity using checksums, providing built-in validation for data consistency during uploads and transfers.
 
 <b>Part 10: Specialized Use Cases and Hybrid Cloud</b>
 The final section focuses on specialized use cases and hybrid cloud deployments, wrapping up the book with a look at how S3 extends beyond traditional storage scenarios.
+
 Chapter 36: Website Hosting - Discover how to use S3 for static website hosting, providing a cost-effective and scalable alternative to traditional web servers.
+
 Chapter 37: Cross-Account Access - Learn how to securely share S3 buckets and objects across multiple AWS accounts using IAM roles and policies.
+
 Chapter 38: S3 Outposts - This final chapter explores S3 on Outposts, enabling local storage on AWS Outposts hardware for hybrid cloud environments, ensuring data residency compliance and low-latency access.
