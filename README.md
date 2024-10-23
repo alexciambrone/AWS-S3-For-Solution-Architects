@@ -1,5 +1,9 @@
 # AWS-S3-For-Solution-Architects
 Free book - AWS S3 For Solution Architects
+<br>
+<H1><b>Contacts</b></H1>
+email: alexciambrone@gmail.com
+linkedin: https://www.linkedin.com/in/alessandrociambrone/
 
 <H1><b>Preface</b></H1>
 <br>
