@@ -34,7 +34,6 @@ In conclusion, the role of a solution architect is not merely to select AWS serv
 This book is structured to guide AWS solution architects through the intricate workings of Amazon S3. The chapters are divided into sections that progressively introduce foundational concepts, explore advanced features, and offer practical use cases for S3 in various cloud and hybrid environments. Here’s an overview of what each section covers.
 <br><br>
 <b>Part 1: Foundations of S3</b>
-<br><br>
 This section establishes the core concepts of Amazon S3, laying a solid foundation for more advanced topics in later sections. It introduces Amazon S3’s purpose, key storage components, and the different storage classes that S3 offers.
 <br><br>
 Chapter 1: What is S3 - This chapter introduces Amazon S3, explaining its purpose as an object storage service and how it fits into the larger AWS ecosystem.
